@@ -26,10 +26,11 @@ Installed the following extensions:
 7. Returned to Cursor and selected **File → Open Folder**.
 8. Opened the extracted repository folder.
 9. Compiled the contents of this document in Notepad and used ChatGPT to generate a properly formatted `README.md` file with headings, lists, and sections.
-10. Copied ChatGPT results and pasted it into the "Preview" editor of the [README.md](http://README.md) file opened in Cursor.
+10. Copied ChatGPT results and pasted it into the "Preview" editor of the README.md file opened in Cursor.
 11. Saved changes and used Cursor Composer (Ctrl + I) to ask help publishing changes.
 12. Downloaded Git for proper cloning and publishing.
-
+13. Cloned Public repository locally.
+14. Used Cursor Composer to commit and push changes on the public repository.
 ---
 
 ## Issues Encountered
@@ -64,7 +65,8 @@ Installed the following extensions:
 
 - Used **Cursor Composer** (Ctrl + I) to ask help doing this.
 - Found out that downloading it as ZIP is not enough and installing Git is required to successfuly clone the repository and commit changes.
-
+- Downloaded Git and cloned the repository locally.
+- Used the composer to commit and push changes successfully.
 
 ---
 
