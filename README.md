@@ -39,6 +39,7 @@ Installed the following extensions:
 
 - Could not find the **Extensions** panel from the initial opening window.
 - Was unsure how to install extensions.
+- Could not initially commit and push changes to README.md file because the repository was not cloned, but downloaded as a ZIP file instead.
 
 ### 2. Lack of Familiarity with GitHub Workspace
 
